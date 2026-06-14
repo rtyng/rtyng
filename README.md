@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Randy+Tyng;Finishing+B.A+in+Economics+by+May+2027+%7C+Wesleyan+University;Questbridge+National+College+Match+Scholar+Class+of+2022;Had+to+take+a+step+back+but+I'm+back+now)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Randy+Tyng;Finishing+B.A+in+Economics+by+May+2027+%7C+Wesleyan+University;Questbridge+National+College+Match+Scholar+Class+of+2022;Had+to+take+a+step+back+but+I'm+back+now)](https://git.io/typing-svg)
 <!--
 **rtyng/rtyng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
