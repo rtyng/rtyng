@@ -1,8 +1,11 @@
-- 🔭 I’m currently working on a solar system simulation in C and tiny kingdom economist text based Python game
+- 🔭 I’m mainly working on a solar system simulation in C++
 
-- 🌱 I’m currently learning graphics programming in C
+- 🌱 I'm using the solar system simulation project to help me learn C++.
+    
+    - I have done graphics programming with raylib and openGL so far.
+    - Currently working on building my own basic orbital mechanics header for the sun and earth.
 
-- 🤔 My most developed skillset is Data Science (usually in Python)
+- 🤔 Most of my experience is in Python to apply Data Science libraries to specific problems
 
 - I'm currently taking introductory statistics at UMGC with plans to finish my Economics B.A by next spring
 
